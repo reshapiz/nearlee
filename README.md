@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/NearleeBot">Открыть в Telegram</a> ·
-  <a href="https://nearlee.ru">nearlee.ru</a>
+  <a href="https://t.me/NearleeBot">Открыть в Telegram</a>
 </p>
 
 <p align="center">
@@ -54,7 +53,11 @@ Nearlee работает как мини-приложение в Telegram — н
 
 ## Видео
 
-[Смотреть тизер](media/nearlee-teaser.mp4)
+
+
+https://github.com/user-attachments/assets/9e0b0da3-8e02-4ec3-aa59-f467a86009e0
+
+
 
 ## Статус
 
